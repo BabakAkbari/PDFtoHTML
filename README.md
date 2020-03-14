@@ -1,2 +1,2 @@
 ## Dependencies: ##
-sudo apt-get install poppler-utils
+`sudo apt-get install poppler-utils`
